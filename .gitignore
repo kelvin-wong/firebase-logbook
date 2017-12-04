@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+yarn.lock
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Firebase config / Google API credentials
+.firebaserc
+firebase.json
+service-account-credentials.json
